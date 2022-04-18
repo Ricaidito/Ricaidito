@@ -5,7 +5,7 @@
 ### 📖 About me:
 
 - 🧠 I’m currently learning React and Flutter
-- 🏝️ Dominican, currently living in Santo Domingo, Dominican Republic
+- 🏝️ Currently living in Santo Domingo, Dominican Republic
 - 🖥️ Interested in web development, machine learning and hardware
 - 🍖 I enjoy cooking and eating new dishes
 - 💪🏽 Sometimes I go to the gym
