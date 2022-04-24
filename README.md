@@ -45,7 +45,7 @@
 #### Databases 🗃️
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-00ed64?style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![MSSS](https://img.shields.io/badge/Microsoft%20SQL%20Sever-white?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=red)]()
+[![MSSS](https://img.shields.io/badge/Microsoft%20SQL%20Server-white?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=red)]()
 
 #### Tools ⚙️
 
