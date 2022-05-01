@@ -41,12 +41,12 @@
 [![Java](https://img.shields.io/badge/Java-f8582a?style=for-the-badge&logo=java&logoColor=white)]()
 [![Angular](https://img.shields.io/badge/Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-8c0bfd?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-[![Unity](https://img.shields.io/badge/Unity-808080?style=for-the-badge&logo=unity&logoColor=black)]()
+[![Unity](https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=unity&logoColor=black)]()
 
 #### Databases 🗃️
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-00ed64?style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![MSSS](https://img.shields.io/badge/Microsoft%20SQL%20Server-white?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=red)]()
+[![MSSS](https://img.shields.io/badge/Microsoft%20SQL%20Server-bd071d?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)]()
 
 #### Tools ⚙️
 
