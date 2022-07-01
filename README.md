@@ -32,10 +32,8 @@
 [![NPM](https://img.shields.io/badge/NPM-e32e37?style=for-the-badge&logo=npm&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-2b2d2f?style=for-the-badge&logo=javascript&logoColor=f7df1e)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-017acb?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-f8582a?style=for-the-badge&logo=java&logoColor=white)]()
 [![Angular](https://img.shields.io/badge/Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-8c0bfd?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-[![Unity](https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=unity&logoColor=black)]()
 
 #### Databases 🗃️
 
@@ -48,6 +46,5 @@
 [![VSC](https://img.shields.io/badge/Visual%20Studio%20Code-00a5f4?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
 [![VS](https://img.shields.io/badge/Visual%20Studio-743db4?style=for-the-badge&logo=visualstudio&logoColor=white)]()
 [![PyCharm](https://img.shields.io/badge/PyCharm-f6eb53?style=for-the-badge&logo=pycharm&logoColor=black)]()
-[![AndroidStudio](https://img.shields.io/badge/Android%20Studio-green?style=for-the-badge&logo=androidstudio&logoColor=white)]()
 [![Photoshop](https://img.shields.io/badge/Photoshop-001833?style=for-the-badge&logo=adobephotoshop)]()
 [![Premiere](https://img.shields.io/badge/Premiere%20Pro-00005b?style=for-the-badge&logo=adobepremierepro)]()
