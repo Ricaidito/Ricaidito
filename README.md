@@ -1,7 +1,3 @@
-# Hey there, I am Ricardo Arturo!
-
-## I'm a Dominican software developer and systems engineering student who likes technology and learning new things...
-
 ### 📖 About me:
 
 - 🧠 I’m currently learning React
