@@ -6,16 +6,12 @@
 - 🍖 I enjoy cooking and eating new dishes
 - 💪🏽 Sometimes I go to the gym
 
----
-
 ### ✉️ Contact with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ramirez-a23459221/)
 [![Gmail](https://img.shields.io/badge/ricaiditodev@gmail.com-f44336?style=for-the-badge&logo=gmail&logoColor=white)](ricaiditodev@gmail.com)
 [![Discord](https://img.shields.io/badge/Ricaidito%239186-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/263535106747006977)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-grey?style=for-the-badge&logo=stackoverflow&logoColor=black)](https://stackoverflow.com/users/11359916/ricaidito)
-
----
 
 ### 📚 My Stack:
 
