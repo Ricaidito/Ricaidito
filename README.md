@@ -21,7 +21,6 @@
 [![NET](https://img.shields.io/badge/.NET-67217a?style=for-the-badge&logo=.net&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3476ab?style=for-the-badge&logo=python&logoColor=white)]()
 [![NodeJS](https://img.shields.io/badge/Node.JS-689f63?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![NPM](https://img.shields.io/badge/NPM-e32e37?style=for-the-badge&logo=npm&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-2b2d2f?style=for-the-badge&logo=javascript&logoColor=f7df1e)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-017acb?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Angular](https://img.shields.io/badge/Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white)]()
