@@ -1,6 +1,5 @@
 ### 📖 About me:
 
-- 🧠 I’m currently learning React
 - 🏝️ Currently living in Santo Domingo, Dominican Republic
 - 🖥️ Interested in web development, machine learning and hardware
 - 🍖 I enjoy cooking and eating new dishes
@@ -8,27 +7,27 @@
 
 ### ✉️ Contact with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ramirez-a23459221/)
-[![Gmail](https://img.shields.io/badge/ricaiditodev@gmail.com-f44336?style=for-the-badge&logo=gmail&logoColor=white)](ricaiditodev@gmail.com)
 [![Discord](https://img.shields.io/badge/Ricaidito%239186-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/263535106747006977)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-grey?style=for-the-badge&logo=stackoverflow&logoColor=black)](https://stackoverflow.com/users/11359916/ricaidito)
+[![Gmail](https://img.shields.io/badge/ricaiditodev@gmail.com-f44336?style=for-the-badge&logo=gmail&logoColor=white)](ricaiditodev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ramirez-a23459221/)
 
 ### 📚 My Stack:
 
 #### Languages and frameworks 🛠️
 
 [![CSharp](https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=csharp&logoColor=white)]()
-[![NET](https://img.shields.io/badge/.NET-67217a?style=for-the-badge&logo=.net&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3476ab?style=for-the-badge&logo=python&logoColor=white)]()
 [![NodeJS](https://img.shields.io/badge/Node.JS-689f63?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-2b2d2f?style=for-the-badge&logo=javascript&logoColor=f7df1e)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-017acb?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)]()
 [![Angular](https://img.shields.io/badge/Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-8c0bfd?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 
 #### Databases 🗃️
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-00ed64?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![Firebase](https://img.shields.io/badge/Firebase-f57f17?style=for-the-badge&logo=firebase)]()
 [![MSSS](https://img.shields.io/badge/Microsoft%20SQL%20Server-bd071d?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)]()
 
 #### Tools ⚙️
