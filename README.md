@@ -9,7 +9,6 @@
 
 [![Discord](https://img.shields.io/badge/Ricaidito%239186-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/263535106747006977)
 [![Gmail](https://img.shields.io/badge/ricaiditodev@gmail.com-f44336?style=for-the-badge&logo=gmail&logoColor=white)](ricaiditodev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-ramirez-a23459221/)
 
 ### 📚 My Stack:
 
