@@ -19,6 +19,8 @@
 [![NodeJS](https://img.shields.io/badge/Node.JS-689f63?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-2b2d2f?style=for-the-badge&logo=javascript&logoColor=f7df1e)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-017acb?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-ca17d2?style=for-the-badge&logo=kotlin&logoColor=white)]()
+[![Android](https://img.shields.io/badge/Android-2edf85?style=for-the-badge&logo=android&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)]()
 [![Angular](https://img.shields.io/badge/Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white)]()
 [![SASS](https://img.shields.io/badge/SASS-bf4080?style=for-the-badge&logo=sass&logoColor=white)]()
@@ -37,3 +39,4 @@
 [![VSC](https://img.shields.io/badge/Visual%20Studio%20Code-00a5f4?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
 [![VS](https://img.shields.io/badge/Visual%20Studio-743db4?style=for-the-badge&logo=visualstudio&logoColor=white)]()
 [![PyCharm](https://img.shields.io/badge/PyCharm-f6eb53?style=for-the-badge&logo=pycharm&logoColor=black)]()
+[![AndroidStudio](https://img.shields.io/badge/Android%20Studio-white?style=for-the-badge&logo=androidstudio)]()
