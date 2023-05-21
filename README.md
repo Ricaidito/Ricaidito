@@ -7,7 +7,7 @@
 
 ### ✉️ Contact with me:
 
-[![Discord](https://img.shields.io/badge/Ricaidito%239186-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/263535106747006977)
+[![Discord](https://img.shields.io/badge/Ricaidito%230001-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/263535106747006977)
 [![Gmail](https://img.shields.io/badge/ricaiditodev@gmail.com-f44336?style=for-the-badge&logo=gmail&logoColor=white)](ricaiditodev@gmail.com)
 
 ### 📚 My Stack:
@@ -20,6 +20,8 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-2b2d2f?style=for-the-badge&logo=javascript&logoColor=f7df1e)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-017acb?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-ca17d2?style=for-the-badge&logo=kotlin&logoColor=white)]()
+[![Dart](https://img.shields.io/badge/Dart-03589c?style=for-the-badge&logo=dart&logoColor=white)]()
+[![Flutter](https://img.shields.io/badge/Flutter-3abeee?style=for-the-badge&logo=flutter&logoColor=white)]()
 [![Android](https://img.shields.io/badge/Android-2edf85?style=for-the-badge&logo=android&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)]()
 [![Angular](https://img.shields.io/badge/Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white)]()
