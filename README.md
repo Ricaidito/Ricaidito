@@ -23,7 +23,6 @@
 [![Android](https://img.shields.io/badge/Android-2edf85?style=for-the-badge&logo=android&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)]()
 [![Angular](https://img.shields.io/badge/Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white)]()
-[![SASS](https://img.shields.io/badge/SASS-bf4080?style=for-the-badge&logo=sass&logoColor=white)]()
 [![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-0f172a?style=for-the-badge&logo=tailwindcss)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-8c0bfd?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 
