@@ -1,9 +1,7 @@
 ### 📖 About me:
 
 - 🏝️ Currently living in Santo Domingo, Dominican Republic
-- 🖥️ Interested in web development, machine learning and hardware
-- 🍖 I enjoy cooking and eating new dishes
-- 💪🏽 Sometimes I go to the gym
+- 🖥️ Interested in backend development, machine learning and hardware
 
 ### ✉️ Contact with me:
 
