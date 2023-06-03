@@ -1,6 +1,6 @@
 ### 📖 About me:
 
-- 🏝️ Currently living in Santo Domingo, Dominican Republic
+- 🏝️ Currently living in the Dominican Republic
 - 🖥️ Interested in backend development, machine learning and hardware
 
 ### ✉️ Contact with me:
