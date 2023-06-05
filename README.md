@@ -20,7 +20,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-017acb?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Dart](https://img.shields.io/badge/Dart-00d2b8?style=for-the-badge&logo=dart&logoColor=white)]()
 [![Flutter](https://img.shields.io/badge/Flutter-3abeee?style=for-the-badge&logo=flutter&logoColor=white)]()
-[![Android](https://img.shields.io/badge/Android-2edf85?style=for-the-badge&logo=android&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)]()
 [![Angular](https://img.shields.io/badge/Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white)]()
 [![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-0f172a?style=for-the-badge&logo=tailwindcss)]()
