@@ -5,7 +5,7 @@
 
 ### ✉️ Contact with me:
 
-[![Discord](https://img.shields.io/badge/Ricaidito%230001-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/263535106747006977)
+[![Discord](https://img.shields.io/badge/ricaidito-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/263535106747006977)
 [![Gmail](https://img.shields.io/badge/ricaiditodev@gmail.com-f44336?style=for-the-badge&logo=gmail&logoColor=white)](ricaiditodev@gmail.com)
 
 ### 🛠️ Languages and frameworks:
