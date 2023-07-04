@@ -1,8 +1,3 @@
-### 📖 About me:
-
-- 🏝️ Currently living in the Dominican Republic
-- 🖥️ Interested in backend development, machine learning and hardware
-
 ### ✉️ Contact with me:
 
 [![Discord](https://img.shields.io/badge/ricaidito-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/263535106747006977)
