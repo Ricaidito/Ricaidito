@@ -18,7 +18,6 @@
 ### Databases:
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-00ed64?style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![MSSS](https://img.shields.io/badge/Microsoft%20SQL%20Server-bd071d?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)]()
 
 ### Cloud platforms:
