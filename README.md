@@ -23,4 +23,4 @@
 
 ### Cloud platforms:
 
-[![GCP](https://img.shields.io/badge/Google%20Cloud-white?style=for-the-badge&logo=google%20cloud)]()
+[![GCP](https://img.shields.io/badge/Google%20Cloud-gray?style=for-the-badge&logo=google%20cloud)]()
