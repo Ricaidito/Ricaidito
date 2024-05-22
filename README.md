@@ -11,7 +11,6 @@
 [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)]()
 [![Angular](https://img.shields.io/badge/Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white)]()
 [![NodeJS](https://img.shields.io/badge/Node.JS-689f63?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-017acb?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3476ab?style=for-the-badge&logo=python&logoColor=white)]()
 [![CSharp](https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=csharp&logoColor=white)]()
